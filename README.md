@@ -173,10 +173,8 @@ magic layout to lef file
 6.Day5-Final steps for RTL2GDS flow.
 --
 design view after synthesis, floorplan and routing
-![final1](https://github.com/user-attachments/assets/a6851c61-7819-4cfd-b7f3-69f18fd60bce)
+![final design](https://github.com/user-attachments/assets/cc3461ca-1d3d-4c99-b31d-8920f24fb017)
 
-
-Running
 
 
 
