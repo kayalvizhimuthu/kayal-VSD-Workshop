@@ -161,15 +161,18 @@ Load poly file in magic view
 
 5.Day4-Pre-layout timing analysis and importance to good clock tress(i.e minimum skewness).
 --
+open the custom cmos inverter layout
+![CMOS inverter](https://github.com/user-attachments/assets/195311e1-ea68-4f90-a970-f45dd8eabade)
 
-![10g-lef file](https://github.com/user-attachments/assets/e5eff1bf-e479-4263-b299-2c42286aafbc)
-
+Track information
 ![10f](https://github.com/user-attachments/assets/ac56484c-f4e3-4c34-9ef7-e900c2b81f07)
 
+magic layout to lef file
+![10g-lef file](https://github.com/user-attachments/assets/e5eff1bf-e479-4263-b299-2c42286aafbc)
 
 6.Day5-Final steps for RTL2GDS flow.
 --
-
+design view after synthesis, floorplan and routing
 ![final1](https://github.com/user-attachments/assets/a6851c61-7819-4cfd-b7f3-69f18fd60bce)
 
 
